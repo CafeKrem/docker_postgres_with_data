@@ -36,3 +36,6 @@ If want change this params in `docker-compose.yaml`
 $ docker-compose up
 ```
 
+## CafeKrem modification
+
+add pgadmin in docker compose. Copie script from https://github.com/khezen/compose-postgres/blob/master/docker-compose.yml
